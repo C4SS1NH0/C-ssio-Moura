@@ -3,9 +3,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C3%A1ssio-moura-4118aa313/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cassiokk13@gmail.com)
 
-![Cássio Moura GitHub stats](https://github-readme-stats.vercel.app/api?username=C4SS1NH0&show_icons=true&theme=tokyonight)
+![Cássio Moura GitHub stats](https://github-readme-stats.vercel.app/api?username=C4SS1NH0&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C4SS1NH0&layout=donut)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C4SS1NH0&layout=donut-vertical)
 
 
 ## Minhas Stacks
