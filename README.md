@@ -5,7 +5,7 @@
 
 ![Cássio Moura GitHub stats](https://github-readme-stats.vercel.app/api?username=C4SS1NH0&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C4SS1NH0&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C4SS1NH0&layout=donut)](https://github.com/C4SS1NH0/github-readme-stats)
 
 
 ## Minhas Stacks
